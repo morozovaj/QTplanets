@@ -10,7 +10,9 @@ MainWindow::MainWindow(QWidget *parent)    :
     qDebug() << "HELLO" << endl;
     //commentdfdfegdfggdfg
     djfksfjdfksfk
-            lfsldff
+            lfsldfffgmndgmfdg
+            fgfgg
+            last
 }
 
 MainWindow::~MainWindow()
