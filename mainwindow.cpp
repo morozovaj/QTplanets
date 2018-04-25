@@ -13,6 +13,8 @@ MainWindow::MainWindow(QWidget *parent)    :
             lfsldfffgmndgmfdg
             fgfgg
             last
+       fdsffsff
+            sdgfhgng
 }
 
 MainWindow::~MainWindow()
