@@ -8,7 +8,9 @@ MainWindow::MainWindow(QWidget *parent)    :
 {
     ui->setupUi(this);
     qDebug() << "HELLO" << endl;
-    //comment
+    //commentdfdfegdfggdfg
+    djfksfjdfksfk
+            lfsldff
 }
 
 MainWindow::~MainWindow()
